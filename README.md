@@ -7,16 +7,16 @@
 
 <p align="left">
   <a href="#" title="HTML">
-  <img src="https://github.com/user-attachments/assets/5b329a48-02cf-44d7-b5fb-192721418c56" alt="Html 5"/></a>
+  <img src="https://github.com/user-attachments/assets/5b329a48-02cf-44d7-b5fb-192721418c56" alt="Html 5" width="40" height="40"/></a>
   
   <a href="#" title="CSS">
-  <img src="https://github.com/user-attachments/assets/61678fe2-5573-4e78-a138-1bdb8211ba85" alt="Css 3"/></a
+  <img src="https://github.com/user-attachments/assets/61678fe2-5573-4e78-a138-1bdb8211ba85" alt="Css 3" width="40" height="40"/></a
                              
   <a href="#" title="Java">
-  <img src="https://github.com/user-attachments/assets/f5b99f5b-29fa-4e8d-8624-b6844d63f3a8" alt="Java"/></a>
+  <img src="https://github.com/user-attachments/assets/f5b99f5b-29fa-4e8d-8624-b6844d63f3a8" alt="Java" width="40" height="40"/></a>
 
   <a href="#" title="Python">
-  <img src="https://github.com/user-attachments/assets/5e3ff519-610e-4f0c-9b38-789f98d794f3" alt="Python"/></a>
+  <img src="https://github.com/user-attachments/assets/5e3ff519-610e-4f0c-9b38-789f98d794f3" alt="Python" width="40" height="40"/></a>
 
   <a href="#" title="SQL">
   <img src="" alt="My Sql"/></a>
