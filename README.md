@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  💼 IDE's que uso: 
+  💼 My Tools: 
 
   <a href="#" title="Visual Studio Code">
   <img src="" alt="VsCode"/></a>
@@ -36,12 +36,6 @@
 
   <a href="#" title="IntelliJ">
   <img src="" alt="IntelliJ"/></a>
-
-  <a href="#" title="PyCharm">
-  <img src="" alt="PyCharm"/></a>
-
-  <a href="#" title="MySQL Workbench">
-  <img src="" alt="MySQL Workbench"/></a>
 </p>
 
 <p align="left">
