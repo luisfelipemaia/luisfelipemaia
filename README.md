@@ -26,18 +26,7 @@
 </p>
 
 <p align="left">
-  💼 My Tools: 
-
-  <a href="#" title="Visual Studio Code">
-  <img src="" alt="VsCode"/></a>
-
-  <a href="#" title="Eclipse">
-  <img src="" alt="Eclipse"/></a>
-
-  <a href="#" title="IntelliJ">
-  <img src="" alt="IntelliJ"/></a>
-</p>
-
+  
 <p align="left">
   💌 Entre em Contato aqui: ⤵️
 </p>
