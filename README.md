@@ -28,7 +28,7 @@
 <p align="left">
   
 <p align="left">
-  💌 Entre em Contato aqui: ⤵️
+  Entre em Contato aqui: ⤵️
 </p>
 
 <p align="left">
