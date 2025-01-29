@@ -19,13 +19,7 @@
   <a href="#" title="Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
-
-<p align="left">
-  
-<p align="left">
-  Entre em Contato aqui: ⤵️
-</p>
-
+<br>
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
