@@ -15,14 +15,9 @@
   <a href="#" title="Java">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 
-  <a href="#" title="Kotlin">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="35" height="35"/></a>
 
   <a href="#" title="Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-
-  <a href="#" title="SQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="My Sql" width="40" height="40"/></a>
 </p>
 
 <p align="left">
