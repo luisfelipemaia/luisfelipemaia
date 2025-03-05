@@ -1,6 +1,6 @@
-# Play my games on Itch.io: [RamiresTech Games Page](https://ramirestechgames.itch.io/)
+# Hello World, I am Luis! 👋
 
-### Hello World, I am Luis! 👋
+###
 ![](https://komarev.com/ghpvc/?username=luisfelipemaia&color=006bed)
 ![](https://img.shields.io/github/followers/luisfelipemaia.svg?style=social&label=Follow&maxAge=2592000)
 
@@ -11,7 +11,7 @@
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="typescript logo"  />
