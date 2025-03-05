@@ -1,13 +1,15 @@
-<h2 align="left">Hi 👋! My name is Luis Felipe and I'm a developer, from Brazil</h2>
+# Play my games on Itch.io: [RamiresTech Games Page](https://ramirestechgames.itch.io/)
 
+### Hello World, I am Luis! 👋
+![](https://komarev.com/ghpvc/?username=luisfelipemaia&color=006bed)
+![](https://img.shields.io/github/followers/luisfelipemaia.svg?style=social&label=Follow&maxAge=2592000)
+
+- 🤔 &nbsp; I am a Christian, passionate about technology and football, I love good conversations between friends and the exchange of knowledge that adds a lot of value.
+
+- 🎓 &nbsp; Studying Computer Science at the <a href="https://www.sbv.ifsp.edu.br"> Federal Institute of Education, Science and Technology of São Paulo (IFSP)</a>.
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfelipemaia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipemaia&locale=en&hide_title=false&theme=onedark&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<h3> :rocket: &nbsp;My Skills </h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
