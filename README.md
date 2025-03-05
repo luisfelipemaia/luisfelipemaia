@@ -8,7 +8,7 @@
 - 🤔 &nbsp; I am a Christian, passionate about technology and football, I love good conversations between friends and the exchange of knowledge that adds a lot of value.
 
 - 🎓 &nbsp; Studying Computer Science at the <a href="https://www.sbv.ifsp.edu.br"> Federal Institute of Education, Science and Technology of São Paulo (IFSP)</a>.
-- 
+  
 ##
 
 <div align="center">
