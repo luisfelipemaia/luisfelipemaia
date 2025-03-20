@@ -7,14 +7,12 @@
   
 - 🎓 &nbsp; Studying Computer Science at the <a href="https://www.sbv.ifsp.edu.br/"> Federal Institute of Education, Science and Technology of São Paulo (IFSP)</a>.
 
-###
+##
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
