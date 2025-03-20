@@ -11,38 +11,40 @@
 
 <div align="center">
   <a href="https://github.com/luisfelipemaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?      username=luisfelipemaia&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipemaia&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipemaia&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ##
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height="40" alt="maven logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ##
