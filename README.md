@@ -11,9 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/luisfelipemaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipemaia&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipemaia&show_icons=true&include_all_commits=true&count_private=true&theme=monokai"/>
   <img width="15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipemaia&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipemaia&layout=compact&langs_count=10&theme=monokai"/>
 </div>
 
 ##
