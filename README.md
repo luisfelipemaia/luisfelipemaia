@@ -47,7 +47,3 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-
-##
-
-<h3> :telephone_receiver:  My Contact</h3>
