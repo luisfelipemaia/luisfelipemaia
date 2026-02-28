@@ -7,11 +7,9 @@
   
 - 🎓 &nbsp; Studying Computer Science at the <a href="https://www.sbv.ifsp.edu.br/"> Federal Institute of Education, Science and Technology of São Paulo (IFSP)</a>.
 
-##
+- 📃 &nbsp; If you'd like to know a little more about it, here's my resume
 
-![](https://github-readme-stats.vercel.app/api?username=luisfelipemaia&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luisfelipemaia&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipemaia&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+##
 
 ###
 
