@@ -7,11 +7,9 @@
   
 - 🎓 &nbsp; Studying Computer Science at the <a href="https://www.sbv.ifsp.edu.br/"> Federal Institute of Education, Science and Technology of São Paulo (IFSP)</a>.
 
-- 📃 &nbsp; If you'd like to know a little more about it, here's my resume
+- 📃 &nbsp; If you'd like to know a little more about it, here's my resume <a href="https://drive.google.com/file/d/1N_9hqYG6yy50vY9JRO5XKdusPJqc6cM3/view?usp=sharing"> Curriculo em PDF</a>
 
 ##
-
-###
 
 ##
 
